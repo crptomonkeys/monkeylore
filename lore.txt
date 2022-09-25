@@ -8,11 +8,11 @@ Modern monKey World - The most densely populated of all the known monKey Worlds.
 
 Meme World - The monKey World where the memes, milestones, and culture of the community comes to life. These are immortalized into various monKeys by the monKeyprinters. However, some of the denizens of this monKey World are capable of impacting the monKeyverse in more dangerous ways than originally anticipated.
 
-Pendulum world - The combination of two separate monKey Worlds conjoined together by some unknown means. They are total opposites of one another, one is stuck in a perpetual cycle of decay and the other in a permanent spiral of progress.
+Pendulum world - The combination of two separate monKey Worlds conjoined together by some unknown means. They are total opposites of one another; one is stuck in a perpetual cycle of decay and the other in a permanent spiral of progress.
 
-Holiday World - Homeworld of all the holiday and seasonal monKeys. They coexist in this world when it is not their holiday or season and usually get along fine with each other.  Their unique ability is for them to be able to interact with any monKey World when it is their holiday or season.
+Holiday World - Homeworld of all the holiday and seasonal monKeys. They coexist in this world when it is not their holiday or season and usually get along fine with each other. Their unique ability is that they can interact with any monKey World when it is that world's holiday or season.
 
-Space World - Space World is the home of the Banano Way Galaxy, which is home to many smaller worlds. These worlds are not full-fledged monKey Worlds, yet…The origin of these monKeys is a long forgotten secret, but tied to the other monKey Worlds.
+Space World - Space World is the home of the Banano Way Galaxy, which is home to many smaller worlds. These worlds are not full-fledged monKey Worlds - yet. The origin of these monKeys is a long forgotten secret, but tied to the other monKey Worlds.
 
 Wizard World - Homeworld of all the monKey Wizard. Each of the monKey Wizards has a residence here even if some of them rarely use it. This world is seldom visited by monKeys as the ways to the Wizard World are not only secret, but fiercely guarded.
 
@@ -121,9 +121,9 @@ Card 88: Yellow Paper Printer
 
 Card 1: monKeyprinter Go BRRR - The monKeyprinter is the creator of all of the monKeys, they are responsible for populating all of the monKey Worlds with monKeys. They are also said to reside at the center of the monKeyverse, where they still create new monKeys to this day. One story even mentions the possibility that there may be multiple monKeyprinters at work.
 
-Card 2: The All-Nighter - This monkey never sleeps as long as there’s a trade or deal to be made. They’re now a part of a team of similarly-minded monkeys. With the other monKeys connections and skills, mixed with The All-Nighter’s power of will, it seems like there’s nothing this group couldn’t accomplish together.
+Card 2: The All-Nighter - This monkey never sleeps as long as there’s a trade or deal to be made. They’re now a part of a team of similarly-minded monkeys. Combining The All-Nighter's power of will with the other monKeys' connections and skills, it seems like nothing is beyond this group's grasp.
 
-Card 3: To The Moon - Astronaut monkey who is determined to be the first monKey to set foot on the moon. What he didn’t expect to find once he got there was a monKey already there, but it wasn’t the kind he was used too…
+Card 3: To The Moon -This astronaut monkey is determined to be the first monKey to set foot on the moon. What he didn’t expect to find once he got there was a monKey already there, but it wasn’t the kind he was used too…
 
 Card 4: DeFi Yield Farmer - Banano farmer who doesn’t do much, but it’s honest work. He comes from a long line of Banano farmers who have handed down their way of Defi Yield Farming. Now they’re working on a project with the Wrapped monKey to further compound his farming gains.
 
@@ -181,106 +181,105 @@ Card 30: The Blue Wizard - First of the monKey Wizard’s Council, wielder of th
 
 Card 31: The Pro-Waxxer - There was once an infamous scientist known as the Waxxer. They were constantly experimenting with Wax and what they could accomplish with it. Their last experiment was their boldest and most dangerous yet, causing consequences of unseen range…
 
-Card 32: The Anti-Waxxer - The Waxxer attempted to fork himself. Unfortunately the Waxxer had failed to account for a rogue variable. Now there exists two versions of the Waxxer, with each seeking to complete the fork in their own way. His constant attempt to solve this alone ripped his monKey world nearly apart.
+Card 32: The Anti-Waxxer - The Waxxer attempted to fork himself. Unfortunately the Waxxer had failed to account for a rogue variable. Now there exists two versions of the Waxxer, with each seeking to complete the fork in their own way. His constant attempts to solve this alone nearly ripped his monKey world apart.
 
-Card 33:  Planet of the monKeys - The long lost homeworld of all monKeys in the Banano Way Galaxy, legend has it that the planet is harboring a dark secret about the origin of all monKeys. It is told that creatures live on this world, taller than a monKey, their voice can drive a monKey crazy they say…
+Card 33:  Planet of the monKeys - The long lost homeworld of all monKeys in the Banano Way Galaxy, legend has it that the planet is harboring a dark secret about the origin of all monKeys. It is said that creatures live on this world. Taller than a monKey, it is said their voice can drive a monKey crazy…
 
-Card 34: The Expanse - Monkeys set out to distant planets in the Banano Way Galaxy to uncover a banspiracy older than monKeykind. Amongst them there are also the bravest of all the monKeyplorers, who dare to try to find the homeworld, the search alone is considered to be cursed…
+Card 34: The Expanse - Monkeys set out to distant planets in the Banano Way Galaxy to uncover a banspiracy older than monKeykind. Amongst them there are also the bravest of all the monKeyplorers, who dare to try to find the homeworld. The search alone is considered to be cursed…
 
 Card 35: Serenifty - He fights for a cause that is already lost, but that won’t stop him from doing what he thinks is right. Hundreds of decades were spent on hiding the past of the monKeys’ origin, he wants to know the truth, no matter the cost.
 
-Card 36: Miner monKey - Hardworking and honest Miner monKey, too bad he doesn’t know he only exists inside a game, although one could consider him as the happiest being in all monKeyverse. He knows nothing but mining on Planet Banance. Sometimes, though, there is a spark in the dark, evolving, when the monKey Miner is sleeping…
+Card 36: Miner monKey - Hardworking and honest Miner monKey, too bad he doesn’t know he only exists inside a game, although one could consider him as the happiest being in the entire monKeyverse. He knows nothing but mining on Planet Banance. Sometimes, though, there is a spark in the dark, evolving, when the monKey Miner is sleeping…
 
 Card 37: monKey Miner - He spends all day guiding his in-game avatar, the Miner monKey to reap the most rewards he can. He designed Planet Banance to be an ongoing simulation that learns and sometimes, in his dreams, he sees the light in the dark, knowing he might be on to something truly yellow…
 
 Card 38: Staking Queen - With her Bandragons at her side, nothing will stop her from spreading her stake all over this monKey World. She heard of a wandering monKey who is searching for help to ban an ancient evil but she has never left her mountains before…
 
-Card 39:  Bull monKey - Once partners with the Bear monKey, he’s now wildly successful and on his way to the top. He tries to not look back and only follows the trends upwards to become a banillionaire. But deep in his thoughts he still knows about the bear and fears for him.
+Card 39:  Bull monKey - Once partners with the Bear monKey, he’s now wildly successful and on his way to the top. He tries not to look back and only follows the trends upwards to become a banillionaire. But deep in his thoughts he still knows about the bear and fears for him.
 
 Card 40: The Green Wizard - Second of the monKey Wizard’s Council, assistant to the monKeyprinter. The Green Wizard is responsible for placing and distributing newly minted monKeys to where they belong. The Green Wizard once had an incident where they were overtaken by an evil entity, but was eventually saved by a team of diligent monKey detectives with the aid of a monKeyprinter.
 
-Card 41: Bear monKey - Once partners with the Bull monKey, he’s suffered a series of setbacks and is approaching an all time low. Once he dreamed to become a banillionaire and now everything is lost. He just wished to have followed the advice of the wiser monKeys…
+Card 41: Bear monKey - Once partners with the Bull monKey, he’s suffered a series of setbacks and is approaching an all time low. Once he dreamed of becomming a banillionaire and now everything is lost. He just wishes he'd followed the advice of wiser monKeys…
 
-Card 42: Hitchhiker monKey - The last surviving monkey of a destroyed monKey world. He knows about the ancient secrets of his own monKeyworld and could know the one thing that might decide over all monKeys’ future. Unfortunately he has no control over the moments when he appears in monKey worlds…
+Card 42: Hitchhiker monKey - The last surviving monkey of a destroyed monKey world. He knows about the ancient secrets of his own monKeyworld and could know the one thing that might decide the future of all monKeys. Unfortunately he has no control over the moments when he appears in monKey worlds…
 
 Card 43: Nyan monKey - Some say that if you catch the Nyan monKey and follow its’ rainbow, it’ll lead you to a pot of gold. He enjoys his freedom but he can be somewhat evil minded, too, if you dare him. Most of all he fears to be put back into the pot which he escaped from. Few monKeys can tell the tale of the Nyan monKey’s anger and even fewer can tell about the generosity that comes with befriending such a monKey.
 
-Card 44: Llama monKey - Don’t let his mild demeanor fool you, this monKey is all about acquiring as much real estate as he can get his hands on, especially after he was removed from his former prestigious position in Urban Jungle.
-Alternate theme - Unwitting monKey who doesn’t realize he's the in-game avatar for a popular real estate mogul game.
+Card 44: Llama monKey - An unwitting monKey who doesn’t realize he's the in-game avatar for a popular real estate mogul game. Follow along with his misadventures in a cut-throat microcosm of of the Modern MonKey World.
 
-Card 45:  O’Patrick The monKey - Ever since the Nyan monKey escaped his pot of gold he’s been following the rainbow trail hoping to get it back. He asked the monKeylorian for assistance on catching the evil spirit he let escape. The pot of gold seems a minor prize for the safety of the monKey world, even if no one knows…
+Card 45:  O’Patrick The monKey - Ever since the Nyan monKey escaped his pot of gold he’s been following the rainbow trail hoping to get it back. He asked the monKeylorian for assistance in catching the evil spirit he let escape. The pot of gold seems a minor prize for the safety of the monKey world, even if no one knows he took it…
 
-Card 46: 3rd Banniversary - This monKey surprised us all on this Banniversary by throwing an uncommonly good party before jumping out of the cake. Three years may not sound much but in the monKeyverse it is known that one year can be ten years and lots of things happened in these…
+Card 46: 3rd Banniversary - This monKey surprised us all on this Banniversary by throwing an uncommonly good party before jumping out of the cake. Three years may not sound like much, but in the monKeyverse it is known that one year can be ten years and lots of things have happened of late…
 
-Card 47: ClucKey - Which came first the ClucKey or the Cluckegg? This scientist tried to approach this ages old question for the origin of the monKeys with method researching, a new method like method acting, to understand the nature of the monKeyverse better. He might have lost his mind but he still owns the codes for some of the best guarded secrets on this monKeyworld.
+Card 47: ClucKey - Which came first the ClucKey or the Cluckegg? This scientist tried to approach this age old question on the origin of monKeys with a new technique known as method researching - inspired by method acting - to better understand the nature of the monKeyverse. He might have lost his mind but he still owns the codes for some of the best guarded secrets on this monKeyworld.
 
 Card 48: The Nifty Shopper - You’ll never catch this monKey sporting anything but the most bantastic clothes he can acquire. He tries to get the perfect combination of all shoppable items, balanced for safety’s sake, but sometimes the FOMO is stronger…
 
-Card 49: Planet Banance - Home of the Miner monKey and the in-game world of the game that the monKey Miner plays.The moNKey Miner designed the world to be an ongoing banventure, but he might have given his world a consciousness of it’s own…
+Card 49: Planet Banance - Home of the Miner monKey and the in-game world of the game that the monKey Miner plays.The monKey Miner designed the world to be an ongoing banventure, but he might have given his world a consciousness of it’s own…
 
 Card 50: The Yellow Wizard - Third of the monKey Wizard’s Council, rumor has it he glimpsed the Yellow Formula and now has mastery over all things Banano. It is now the Yellow Wizard’s duty to ensure the Yellow Formula is fulfilled. He seems to mainly do this through the distribution of Banano across the monKeyverse.
 
 Card 51:  Wrapped monKey - One day, everything this monKey touched instantly became wrapped. At first this seemed like a curse for this poor monKey as they constantly became tangled in messes of their own unfortunate making. However, they’ve recently been working with the Defi Yield Farmer on a way to wrap some of his crop.
 
-Card 52: The Designer - With a little inspiration there’s nothing that this monKey can’t come up with. One night, long, long ago, he saw a yellow entity in his dreams and since then he tries to catch the moment and ban it onto a canvas. It is believed he might become the Banchelangelo of his time…
+Card 52: The Designer - With a little inspiration there’s nothing that this monKey can’t come up with. One night, long, long ago, he saw a yellow entity in his dreams and since then he's tried to catch the moment and ban it onto a canvas. It is believed he might become the Banchelangelo of his time…
 
-Card 53: Uncommon Pizza - He’ll get this uncommonly good pizza to you in 30 blocks or less, or you’ll get your Banano back. He is the most known and most loved pizza delivery service in the whole Urban Jungle, no monKey who does not crave for their pizzas.
+Card 53: Uncommon Pizza - He’ll get this uncommonly good pizza to you in 30 blocks or less, or you’ll get your Banano back. He is the most known and most loved pizza delivery service in the whole Urban Jungle, no monKey does not crave his pizzas.
 
 Card 54: Moonkie - Little did the astronaut monKey know that another monKey had already laid claim to the moon. Now he is watching his astronaut pet who will be his only company for quite a while. All alone he is waiting for the ship to pick him up, eventually he is going for a hike on the moon…
 
 Card 55: Doge Days - Nothing will stop this monKey from enjoying his summer with his doge buddy. He does not care about shill and rumors, he just respects others’ work and opinions and therefore lives the calmest life imaginable. Some say he gained this wisdom from the defender of floors himself…
 
-Card 56: The Shill - A dimension hopping monKey entity whose seemingly only purpose is to promote Banano and monKey culture across all the monKeyverse. Some myths even mention that the appearance of The Shill is always around times of great importance in monKey history. Could there be more to the Shill and its intentions that it seems?
+Card 56: The Shill - A dimension-hopping monKey entity whose seemingly only purpose is to promote Banano and monKey culture across all the monKeyverse. Some myths even mention that the appearance of The Shill is always around times of great importance in monKey history. Could there be more to the Shill and its intentions than meets the eye?
 
-Card 57:  Buy The Dip - A banillionaire once heard the cries of the Shill and was persuaded to spend their fortunes buying the dip. Unfortunately, they took the phrase too literally… 
+Card 57: Buy The Dip - A banillionaire once heard the cries of the Shill and was persuaded to spend their fortunes buying the dip. Unfortunately, they took the phrase too literally… 
 
 Card 58: Bought The Dip - They now have nearly an infinite amount of dip, but only one Banano to their name. They’re now determined to get back their banillions using all their dip.
 
-Card 59: Store of Value - Friends with the Market Maker, and Bounty Hunter, this monKey helps guide new monKeys on how to acquire and use Banano. They sell all kinds of nifty accessories and hardware at their Original Banano Stand.
+Card 59: Store of Value - Friends with the Market Maker and Bounty Hunter, this monKey helps guide new monKeys on how to acquire and use Banano. They sell all kinds of nifty accessories and hardware at their Original Banano Stand.
 
 Card 60: The Red Wizard - Fourth of the monKey Wizard’s Council, many seek his library hoping that he can help them find what they need. However, his library lies on the hidden Wizard World. While there are many ancient and secret ways to reach the Wizard World, they are often quite dangerous.
 
 Card 61: monKey Disco - His glory days may be far behind but that won’t stop this groovy monKey from getting funky. He owns the most known club in the whole monKeyworld, the famous BANtastico in the Urban Jungle, which every monKey should have visited at least once.
 
-Card 62: Pool Party - Nothing beats coming together and enjoying a pool party, this monKey takes it a bit easier because he knows about the strengths of communities. Most of the time he tries to connect with others to get the best out of the Bansources.
+Card 62: Pool Party - Nothing beats coming together and enjoying a pool party. This monKey takes it easy because he knows the strength of communities. Most of the time he tries to connect with others to get the best out of the Bansources.
 
-Card 63: Junk Art monKey - Little did everyone know that this piece of art was in fact a monKey in disguise, ready to heist some precious art from the museum. Months over months he put into the planning of this genius heist and his chance seems about to be right ahead…
+Card 63: Junk Art monKey - Little did everyone know that this piece of art was in fact a monKey in disguise, ready to heist some precious art from the museum. He put months upon months into the planning of this genius heist and his chance seems to be rapidly approaching…
 
 Card 64: One Year Later - The one year anniversary of the incident which lead to the creation of all monKeykind was celebrated across the monKeyverse for the first time. It was a day full of festivities and joy in all the monKey worlds, celebrated by the wizards and blessed with surprises and gifts for everyone. It was an event like no other, written in the monKey history books forever.
 
-Card 65: Banano Whale - The infamous Banano whale avoids capture from the persistent Captain Banab. He might be hunted but he is a friendly being that often rescued drowning monKeys when the dip threatened the monKey world. Some say he is able to speak and is friends with the other ancient monKeys…
+Card 65: Banano Whale - The infamous Banano whale avoids capture from the persistent Captain Banab. He might be hunted but he is a friendly being, often rescuing drowning monKeys when the dip threatens the monKey world. Some say he is able to speak and is friends with the other ancient monKeys…
 
-Card 66: neomonKey - This freshly minted monKey is enjoying his time in this sparsely populated monKey World. In some ways it might be like a wonder, seeing the monKeys come to life from one moment to the next, or disappearing with a rainbow, every now and then, but the neonmonKey takes things as they come and go, without judging them..
+Card 66: neomonKey - This freshly minted monKey is enjoying his time in this sparsely populated monKey World. In some ways it is wonderous, seeing monKeys come to life from one moment to the next - or every now and then disappearing with a rainbow - but the neomonKey takes things as they come and go, without judging them.
 
-Card 67: Tricked monKey - He was tricked and doesn’t deserve to be here, but he will find a way out. His comrades left him behind when they tried to rob the banillionaire monKey mcDuck, but he won’t tell about their identity, he knows they will come and get him out, since he knows exactly where to search for the answers they all wanted to have. After all he is not a dumb ape.
+Card 67: Tricked monKey - He was tricked and doesn’t deserve to be here, but he will find a way out. His comrades left him behind when they tried to rob the banillionaire monKey mcDuck, but he won’t rat on them. He knows his friends will come spring him out, since he knows exactly where to search for the answers they all wanted to have. After all he is not a dumb ape.
 
 Card 68: Count Bancula - When the Halloween began, Count Bancula rejoiced as he no longer had to hide his true nature inside his bansion. When he controls his hunger for potassium he is not too dangerous but every year around the true date of Halloween his lust for monKey juice becomes irresistible…
 
-Card 69: spooKey - SpooKey comes out every night in the remains of the Banyard, but he soon realized that this night was never-ending. He might be a creature of the night but in fact he decided to be a helpful being throughout this never ending Halloween to become released or revived, one day…
+Card 69: spooKey - SpooKey comes out every night in the remains of the Banyard, but he soon realized that this night was never-ending. He might be a creature of the night but in fact he decided to be a helpful being throughout this never ending Halloween. One day, he knows he'll be revived. One day…
 
-Card 70: The Purple Wizard - Fifth of the monKey Wizard’s Council, she combines and blends together the building blocks of the monKeyverse into something new. She is in charge of making sure each monKey World is constantly changing and evolving. She‘s accompanying the monKey King on his journey.
+Card 70: The Purple Wizard - Fifth of the monKey Wizard’s Council, she combines and blends together the building blocks of the monKeyverse into something new. She is in charge of making sure each monKey World is constantly changing and evolving. She's accompanying the monKey King on his journey.
 
-Card 71: The Urban Jungle - The monkey metropolis at the heart of this monKey World is a shiny and bright place for every monKey to be, as long as you follow the rules and respect the ways of the Banslinger, whose headquarters are situated here.
+Card 71: The Urban Jungle - The monkey metropolis at the heart of this monKey World is a shiny and bright place for every monKey to be - as long as you follow the rules and respect the ways of the Banslinger, whose headquarters are situated here.
 
-Card 72: DYOR monKey - He’s always trying to find new discoveries about the monKeyverse, but the one thing you can be assured of is that he always does his own research. His brother got lost along the way, in his strange way of method researching, thinking he would be something else than a monKey now. For himself he’s on the search for a way to reverse what happened to his brother.
+Card 72: DYOR monKey - He’s always trying to find new discoveries about the monKeyverse. One thing you can be sure of is that DYOR monKey's research is always original. His brother got lost in a strange technique called method researching, thinking he would become something other than a monKey. Personally, DYOR monKey is on the search for a way to reverse what happened to his brother.
 
-Card 73: Abominable monKey - Despite his unfortunate name, this monKey is anything but abominable, he does his best to help out any monKey he runs across. He is a good example that you should not judge a monKey by it’s fur, as his friend UnimonKey would tell you.
+Card 73: Abominable monKey - Despite his unfortunate name, this monKey is anything but abominable; he does his best to help out any monKey he runs across. He is a good example that you should not judge a monKey by its fur, as his friend UnimonKey would tell you.
 
 Card 74: frosKey - FrosKey came to life when a group of young monKeys gave their snowman a magical tail. Now frosKey comes to life every year to teach monKeys about fair and free distribution during the holidays. Also the frosKeys take care of the whole monKey nursery.
 
-Card 75:  Gingerbread monKey - The Gingerbread monKey has outrun every monKey he has ever encountered, until he met the Runner monKey. Once the Gingerbread monKey was caught, the Runner monKey took a bite out of them before continuing on running. Now the Gingerbread monKey trains every day for the eventual rematch.
+Card 75:  Gingerbread monKey - The Gingerbread monKey had outrun every monKey he has ever encountered... until he met the Runner monKey. Once the Gingerbread monKey was caught, the Runner monKey took a bite out of them before continuing on running. Now the Gingerbread monKey trains every day for the eventual rematch.
 
-Card 76: New Year’s monKey (2022) - This year’s been much kinder to this monKey as he looks to a brighter and bantastic year ahead of him. Also he is collecting all the news and memories from the last months, be them good or bad ones. He is a secret collector of Banano Chan fan art.
+Card 76: New Year’s monKey (2022) - This year’s been much kinder to this monKey as he looks to a brighter and bantastic year ahead of him. He collects the news and memories each month, be they good or bad. He is also a secret collector of Banano Chan fan art.
 
-Card 77: monKeyTV - He always makes sure to queue up all his favorite memes on monKeyTV.  He is a secret Banano Chan fan, too. In fact he has a crush on the girl he sees every now and then at Banano Chan meetups, she claimed to be Banano Chan’s number one fan, which would have been an offense to him if she would not have been such a cute monKey.
+Card 77: monKeyTV - He always makes sure to queue up all his favorite memes on monKeyTV. He is a secret Banano Chan fan, too. In fact he has a crush on a girl he sees every now and then at Banano Chan meetups. She claimed to be Banano Chan’s number one fan, which would have been offensive to him if she weren't such a cute monKey.
 
-Card 78: monKey-Chan - Banano Chan’s number one fan, she has every collectible of hers and maybe even some feet pics. The autograph is the thing she is most proud of, also she has all the things that appeared on Banano Chan, and all the other things will be hers, somewen.
+Card 78: monKey-Chan - Banano Chan’s number one fan, she has every collectible of hers and maybe even some feet pics. The autograph is the thing she is most proud of. She collects all the things that appeared on Banano Chan, and knows that all the other things will be hers as well, somewen.
 
-Card 79: Banano Sunday - The Banano Sunday is the place all the local monKeys gather to hear about the recent ongoings in this monKey World. Also it is said there might be a secret society, to be recognised by their badges, who contact each other to fight the evil beings in this monKey world.
+Card 79: Banano Sunday - The Banano Sunday is the place all the local monKeys gather to hear about the recent events in this monKey World. Tt is said there might be a secret society, recognisable by their badges, who contact each other to fight the evil beings in this monKey world.
 
 Card 80: The White Wizard - Sixth of the monKey Wizard’s Council, he helps make sure that time within the monKeyverse stays right on schedule. He keeps the monKeyverse on a timeline only the Wizards and monKeyprinters know about.
 
-Card 81:  Cupid monKey - Cupid monKey instills love into every monKey’s heart that he shoots with his special Valentine’s arrows. He is one of the ancient monKey gods, one might say. In fact he is just travelling between the monKeyverses and doing good whenever he can do so. His best friend and him enjoy some kind of hide and seek in the different worlds.
+Card 81:  Cupid monKey - Cupid monKey shoots monKeys with his special Valentine's arrows, instilling love into every monKey’s heart. Some say he's one of the ancient monKey gods, but the truth is he is just travelling between the monKeyworlds and doing good whenever he can. He and his best friend enjoy playing an arcane version of hide and seek among the different worlds.
 
 Card 82: Runner monKey -  Rumor has it that once the Runner monKey started running, he never stopped. He even defeated a famous monKey known for never being caught in a running contest once. No one knows why the Runner monKey started running, but many monKeys have followed him on his journey, wherever it may lead.
 
@@ -288,19 +287,18 @@ Card 83: The Match Maker - Cupid monKey’s assistant, who helps arrange monKeys
 
 Card 84: The Connector - The Connector works with the unimonKey to bridge the gap between distant monKey Worlds. She believes in the idea of a fully connected monKeyverse. While the unimonKey is able to tear holes in the monKeyverse, it‘s The Connector’s job to patch up those holes and make the bridges permanent.
 
-Card 85: 4th BANniversary - monKeys helped ensure this BANniversary was special by fighting for their place in internet history. There was an evil intruder who wanted to take over their memorial just for having it but the monKeys were able to fight him back again and again until their memory became immortal on blockchain.
+Card 85: 4th BANniversary - monKeys helped ensure this BANniversary was special by fighting for their place in internet history. There was an evil intruder who wanted to take over their memorial just for having it but the monKeys were able to fight him back again and again until their memory was immortallized on the blockchain.
 
-Card 86: hngKey - No one remembers what this ancient monKey god was like before the hng masks consumed him and now he seeks to further spread the joy of hng to more monKeys. His brother and him enjoy some kind of game through all the ages, hiding and seeking each other in all disguises and spreading happiness on their journeys. 
+Card 86: hngKey - No one remembers what this ancient monKey god was like before the hng masks consumed him and now he seeks to further spread the joy of hng to more monKeys. He and his brother enjoy some kind of game through the ages, hiding and seeking each other in disguises and spreading happiness on their journeys.
 
-Card 87: Next Gen monKey - The Next Gen monKey helps mold young monKeys into fully bantastic monKeys. He takes responsibility for them as soon as they leave the monKey nursery under the guidance of frosKeys and helps transform them into the best monKeys possible. It is said his patience would be without limits.
+Card 87: Next Gen monKey - The Next Gen monKey helps mold young monKeys into fully bantastic monKeys. He takes responsibility for them as soon as they leave the monKey nursery under the guidance of frosKeys and helps transform them into the best monKeys possible. It is said his patience is without limits.
 
-
-Card 88: Yellow Paper Printer - Assistant to the Yellow Wizard. She’s responsible for the production of Yellow Paper, which is the only paper capable of containing the knowledge of the Yellow Formula. Despite being so integral to the Yellow Formula itself, even she has never seen it.
+Card 88: Yellow Paper Printer - Assistant to the Yellow Wizard. She’s responsible for the production of Yellow Paper, which is the only paper capable of containing the knowledge of the Yellow Formula. Despite her paper being so integral to the Yellow Formula itself, even she has never seen the formula.
 
 Card 89: Jungle Gym - The most famous gym in the Urban Jungle. Home to the famous swole monKey nicknamed “Swole Torchic”. All members of the gym are part of the gym’s “fitfam”. It is said that this is one of the spots where you could meet the famous Banslinger.
 
-Card 90: The Black Wizard - Seventh of the monKey Wizard’s Council. The Black Wizard is said to have power over probability itself. Unfortunately when affecting probability, another monKeys chances can be affected too, sometimes for the worst.
+Card 90: The Black Wizard - Seventh of the monKey Wizard’s Council. The Black Wizard is said to have power over probability itself. Unfortunately, when affecting probability another monKeys chances can be affected too, sometimes for the worse.
 
-Card 91: The Banslinger - He comes from a once prestigious line of airdroppers who were all burned except for him by the side effect of the Black Wizard’s power. Now he airdrops his way across the monKeyverse in his pursuit of the Black Wizard. He can often be spotted around the Urban Jungle when he’s restocking and gathering information.
+Card 91: The Banslinger - He comes from a once prestigious line of airdroppers who were all burned except for him by the side effects of the Black Wizard’s power. Now he airdrops his way across the monKeyverse in his pursuit of the Black Wizard. He can often be spotted around the Urban Jungle when he’s restocking and gathering information.
 
-Card 92: The Jungle - The home of Banano’s community, it is the place where the freshly minted monKeys come together to get their first Bananos and their first information which vine to take to which direction. They are watched by the elder monKeys who also care for their arrival from the monKey nursery.
+Card 92: The Jungle - The home of Banano’s community, it is the place where the freshly minted monKeys come together to get their first Bananos and learn which information-vines lead where. They are watched by the elder monKeys who also care for their arrival from the monKey nursery.
