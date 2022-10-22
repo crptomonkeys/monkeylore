@@ -205,7 +205,7 @@ Card 42: Hitchhiker monKey - The last surviving monkey of a destroyed monKey wor
 
 Card 43: Nyan monKey - Some say that if you catch the Nyan monKey and follow its’ rainbow, it’ll lead you to a pot of gold. He enjoys his freedom but he can be somewhat evil minded, too, if you dare him. Most of all he fears to be put back into the pot which he escaped from. Few monKeys can tell the tale of the Nyan monKey’s anger and even fewer can tell about the generosity that comes with befriending such a monKey.
 
-Card 44: Llama monKey - An unwitting monKey who doesn’t realize he's the in-game avatar for a popular real estate mogul game. Follow along with his misadventures in a cut-throat microcosm of of the Modern MonKey World.
+Card 44: Llama monKey - An unwitting monKey who doesn’t realize he's the in-game avatar for a popular real estate mogul game. Follow along with his misadventures in a cut-throat microcosm of the Modern MonKey World.
 
 Card 45:  O’Patrick The monKey - Ever since the Nyan monKey escaped his pot of gold he’s been following the rainbow trail hoping to get it back. He asked the monKeylorian for assistance in catching the evil spirit he let escape. The pot of gold seems a minor prize for the safety of the monKey world, even if no one knows he took it…
 
